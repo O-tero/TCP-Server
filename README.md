@@ -20,7 +20,8 @@ To run the server, follow these steps:
 3. Run the command `python server.py` to start the server
 4. Connect clients to the server using a TCP client
 
-##Configuration
+## Configuration
+
 The maximum number of clients that the server can hold can be adjusted by changing the value of `MAX_CLIENTS` in the code.
 
 ## Code Structure
